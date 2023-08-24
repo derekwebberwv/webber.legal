@@ -8,7 +8,7 @@ menu:
     weight: 1
 ---
 
-{{<image float="right" width="11em" frame="true" caption="Derek, c. 2022" src="https://media.licdn.com/dms/image/C4E03AQFA2QgjoGNk3w/profile-displayphoto-shrink_800_800/0/1658184653386?e=1698278400&v=beta&t=a3xTavlo8_XscOuDdT0CaC9uXHv4MuDXDFKbrDISg24" >}}
+{{<image float="right" width="11em" frame="true" caption="Derek, c. 2022" src="/img/WebberHeadshot.jpg">}}
 
 Hello, I'm Hugo Grotius and this is my personal page. I'm a Dutch lawyer and
 diplomat with experience from academia and government, having published a large
