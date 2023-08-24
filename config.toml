@@ -1,0 +1,30 @@
+baseURL = "http://webber.legaL/"
+languageCode = "en-us"
+title = "Derek Webber"
+theme = "notrack"
+newContentEditor = "nvim"
+mainSections = ["blog"]
+paginate = 4
+
+[params]
+  author = "Derek Webber"
+  # favicon = "hugo_grotius.png" # Adds a small icon next to the page title in a tab
+  showBlogLatest = true
+  mainSections = ["blog"]
+  showTaxonomyLinks = false
+  nBlogLatest = 4 # number of blog post om the home page
+  blogLatestHeading = "My writings"
+
+  [params.social]
+    linkedin = "derek-webber-431636218"
+    email = "derekwebberwv@gmail.com"
+    twitter = "DerekWebberWv"
+
+[taxonomies]
+  year = "year"
+  month = "month"
+  tags = "tags"
+  categories = "categories"
+
+[permalinks]
+  blog = "/blog/:year/:month/:slug"
