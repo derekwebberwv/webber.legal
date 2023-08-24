@@ -10,7 +10,7 @@ menu:
 
 {{<image float="right" width="11em" frame="true" caption="Derek, c. 2022" src="https://media.licdn.com/dms/image/C4E03AQFA2QgjoGNk3w/profile-displayphoto-shrink_800_800/0/1658184653386?e=1698278400&v=beta&t=a3xTavlo8_XscOuDdT0CaC9uXHv4MuDXDFKbrDISg24" >}}
 
-test 123, I'm Hugo Grotius and this is my personal page. I'm a Dutch lawyer and
+Hello, I'm Hugo Grotius and this is my personal page. I'm a Dutch lawyer and
 diplomat with experience from academia and government, having published a large
 number of books on international law, sometimes even being called the "father"
 of this field of study. I have experience working as a diplomat from serving as
